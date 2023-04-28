@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 subtitle: <a href='#'>Deep Learning Engineer</a>. Working at TVConal, Singapore
 
